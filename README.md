@@ -41,12 +41,6 @@ My name is Lucas, and I’m currently studying **AI and Machine Learning** at
 
 ---
 
-## 📊 GitHub Stats
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasZFriborg&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasZFriborg&layout=compact&theme=dark)
-
 <!--
 **LucasZFriborg/LucasZFriborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
