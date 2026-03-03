@@ -9,8 +9,6 @@ My name is Lucas, and I’m currently studying **AI and Machine Learning** at
 
 🌱 **Currently learning:** Machine Learning  
 📘 **Studying:** *Hands-On Machine Learning with Scikit-Learn and PyTorch* by Aurélien Géron  
-💻 **Working with:** Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter Notebook, virtual environments  
-🎯 **Upcoming focus:** Scikit-Learn and PyTorch  
 
 🔎 **Looking for LIA (Internship):**  
 - **2026:** Weeks 40–47  
