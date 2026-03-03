@@ -1,11 +1,9 @@
 # Hi there 👋
 
+## 🚀 About Me
+
 My name is Lucas, and I’m currently studying **AI and Machine Learning** at  
 IT-Högskolan.
-
----
-
-## 🚀 About Me
 
 🌱 Currently learning Machine Learning  
 📘 Studying *Hands-On Machine Learning with Scikit-Learn and PyTorch* by Aurélien Géron  
