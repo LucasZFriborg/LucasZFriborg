@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Lucas, and I’m currently studying AI and Machine Learning at IT-Högskolan (Higher Vocational Education).
+
+- 🌱 Currently learning: [Machine Learning](https://github.com/LucasZFriborg/Machine-learning-Lucas-ZachauFriborg)
+- 📘 Studying: *Hands-On Machine Learning with Scikit-Learn and PyTorch* by Aurélien Géron.
+- 💻 Working with: Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter Notebook, virtual environments.
+- 🚀 Upcoming focus: scikit-learn and PyTorch.
+- 🔎 Looking for LIA (internship):
+  - 2026: Weeks 40–47  
+  - 2027: Weeks 6–22
 
 <!--
 **LucasZFriborg/LucasZFriborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
