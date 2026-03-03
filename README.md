@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is Lucas, and I’m currently studying **AI and Machine Learning** at  
-IT-Högskolan (Higher Vocational Education).
+IT-Högskolan.
 
 ---
 
