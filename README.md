@@ -5,9 +5,6 @@
 My name is Lucas, and I’m currently studying **AI and Machine Learning** at  
 IT-Högskolan.
 
-🌱 Currently learning Machine Learning  
-📘 Studying *Hands-On Machine Learning with Scikit-Learn and PyTorch* by Aurélien Géron  
-
 🔎 **Looking for LIA (Internship):**  
 - 2026: Weeks 40–47  
 - 2027: Weeks 6–22  
