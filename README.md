@@ -6,7 +6,6 @@ My name is Lucas, and I’m currently studying **AI and Machine Learning** at
 IT-Högskolan.
 
 🔎 **Looking for LIA (Internship):**  
-- 2026: Weeks 40–47  
 - 2027: Weeks 6–22  
 
 ---
