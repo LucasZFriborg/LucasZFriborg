@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-My name is Lucaa!
+My name is Lucas!
 
 ---
 
