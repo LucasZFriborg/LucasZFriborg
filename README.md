@@ -2,11 +2,7 @@
 
 ## 🚀 About Me
 
-My name is Lucas, and I’m currently studying **AI and Machine Learning** at  
-IT-Högskolan.
-
-🔎 **Looking for LIA (Internship):**  
-- 2027: Weeks 6–22  
+My name is Lucaa!
 
 ---
 
@@ -26,7 +22,7 @@ IT-Högskolan.
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🗄️ Databases (currently learning)
+### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Tools
